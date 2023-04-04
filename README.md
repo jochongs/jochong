@@ -3,7 +3,7 @@
 <div align=center>
 
 ### 👋 **HI I'm KyeongChan** 👋
-##### I'm majoring in Computer Engineering At Inha University
+#### I'm majoring in Computer Engineering At Inha University
 
 <br/>
 
