@@ -2,14 +2,14 @@
 
 <div align=center>
 
-## 👋 **HI I'm KyeongChan** 👋
-I'm majoring in Computer Engineering At Inha University
+### 👋 **HI I'm KyeongChan** 👋
+##### I'm majoring in Computer Engineering At Inha University
 
 <br/>
 
-##  :hammer: **SKill** :wrench:
+###  :hammer: **SKill** :wrench:
 
-### WEB
+#### WEB
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@ I'm majoring in Computer Engineering At Inha University
 
 <br/>
 
-### BACKEND
+#### BACKEND
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
@@ -38,8 +38,8 @@ logo=elasticsearch&logoColor=white">
 <br/>
 <br/>
 
-## :paperclip: **Site Link I made** :paperclip:
-https://gameuniv.site
+### :paperclip: **Site Link I made** :paperclip:
+##### 1. https://gameuniv.site
 
 <br/>
 
