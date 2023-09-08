@@ -46,9 +46,8 @@
 <br/>
 
 ### :paperclip: **Site Link I made** :paperclip:
-##### 1. Inha Git
-##### 2. Gameuniv
-##### 3. Shoot
+##### 1. [Gameuniv](https://github.com/jochongs/gameuniv-backend)
+##### 2. [Shoot](https://github.com/jochongs/shoot-backend)
 
 <br/>
 
