@@ -43,11 +43,6 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 <br/>
-<br/>
-
-### :paperclip: **Site Link I made** :paperclip:
-##### 1. [Gameuniv](https://github.com/jochongs/gameuniv-backend)
-##### 2. [Shoot](https://github.com/jochongs/shoot-backend)
 
 <br/>
 
