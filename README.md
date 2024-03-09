@@ -1,4 +1,4 @@
-#### 👋 **HI I'm KyeongChan**
+## 👋 **HI I'm KyeongChan**
 
 #### I'm majoring in Computer Engineering At Inha University
 
