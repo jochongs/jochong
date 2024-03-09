@@ -1,14 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jochong&fontSize=90&customColorList=24)
+<div>
 
-<div align=center>
-
-### 👋 **HI I'm KyeongChan**
+## 👋 **HI I'm KyeongChan**
 
 #### I'm majoring in Computer Engineering At Inha University
 
 <br/>
 
-### :hammer: **SKill** :wrench:
+### :hammer: **SKill**
 
 <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
@@ -32,14 +30,10 @@
 
 <br/>
 
-#### TOOL
+### :wrench: TOOL
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 <br/>
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=24)
