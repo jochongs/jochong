@@ -28,8 +28,6 @@
 
 <br/>
 
-</div>
-
 ### :wrench: TOOL
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -37,6 +35,8 @@
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 <br/>
+
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochongs&show_icons=true&theme=dracula)
 
