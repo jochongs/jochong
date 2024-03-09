@@ -1,6 +1,4 @@
-<div>
-
-## 👋 **HI I'm KyeongChan**
+#### 👋 **HI I'm KyeongChan**
 
 #### I'm majoring in Computer Engineering At Inha University
 
@@ -37,3 +35,7 @@
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochongs&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jochongs&layout=compact&theme=dracula)
