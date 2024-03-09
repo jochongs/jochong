@@ -2,6 +2,8 @@
 
 #### I'm majoring in Computer Engineering At Inha University
 
+<div>
+
 <br/>
 
 ### :hammer: **SKill**
@@ -25,6 +27,8 @@
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 
 <br/>
+
+</div>
 
 ### :wrench: TOOL
 
