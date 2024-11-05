@@ -35,4 +35,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jochongs&layout=compact&theme=dracula)
 
-[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=jochongs&limit=3&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
+[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=jochongs&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
