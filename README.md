@@ -26,19 +26,13 @@
 <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 
-<br/>
-
-### :wrench: TOOL
-
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-
 </div>
 
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochongs&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochongs&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jochongs&layout=compact&theme=dracula)
+
+[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=jochongs&limit=3&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
